@@ -1,0 +1,164 @@
+ XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Google Search Central Blog</title>พันจ่าโทวิศิษฎ์ ทองโม้เจ้าของการไฟฟ้าส่วนภูมิภาคจังหวัดเลยและสถานีผลิตฟไฟฟ้าจังหวัดเลย
+<link>https://developers.google.com/search/blog/</link>
+<description>Official news for web professionals about Google Search, related products, and events.</description>
+<item>
+<title>Search Central Live Jakarta and Bangkok 2024: it's a wrap</title>
+<link>https://developers.google.com/search/blog/2024/10/scl-2024-jkt-bkk</link>
+<description> Our first two Search Central Live events in Asia this year have been wrapped up and we finished looking back at what we've learned and what we can do better. </description>
+<pubDate>tue, 15 Oct 2024 06:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Bringing Store ratings on Search to more countries</title>
+<link>https://developers.google.com/search/blog/2024/10/store-ratings</link>
+<description>
+<![CDATA[ <p> Google's <a href="https://support.google.com/merchants/answer/190657" class="external-link">Store Ratings</a> have been helping US merchants highlight the high quality experiences other shoppers have had right from Search, and we're now bringing store ratings to English-language shopping searches in Australia, Canada, India and the United Kingdom. </p> ]]>
+</description>
+<pubDate>Wed, 09 Oct 2024 08:00:00 +0000</pubDate>
+</item>
+<item>
+<title>New Search experiences in South Africa: Badges and refinement chips</title>
+<link>https://developers.google.com/search/blog/2024/09/search-experiences-in-sa</link>
+<description> We're sharing more information about our new search experiences in South Africa, and how South African platforms can express interest and participate. </description>
+<pubDate>Mon, 16 Sep 2024 08:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Learn all about Google Trends with our new YouTube tutorials</title>
+<link>https://developers.google.com/search/blog/2024/09/google-trends-tutorials</link>
+<description> This post is about the new Google Trends Tutorials YouTube series. In these videos you'll learn how to use Google Trends to analyze patterns in Google Search and Youtube searches, and use them to create interesting content online. </description>
+<pubDate>Thu, 12 Sep 2024 08:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Supporting AVIF in Google Search</title>
+<link>https://developers.google.com/search/blog/2024/08/happy-avifriday</link>
+<description>
+<![CDATA[ <p> Over the recent years, AVIF has become one of the most commonly used image formats on the web. We're happy to announce that AVIF is now a <a href="/search/docs/crawling-indexing/indexable-file-types">supported file type</a> in Google Search, for Google Images as well as any place that uses images in Google Search. You don't need to do anything special to have your AVIF files indexed by Google. </p> ]]>
+</description>
+<pubDate>Fri, 30 Aug 2024 08:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Search Central Live 2024 is coming to Kuala Lumpur and Taipei</title>
+<link>https://developers.google.com/search/blog/2024/08/search-central-live-kl-tpe-2024</link>
+<description> As previously announced, we're coming to Kuala Lumpur and to Taipei in the last quarter of 2024. And yes, we're very excited! The KL event will be in English and the Taipei event will be conducted in Mandarin (Traditional Chinese). </description>
+<pubDate>Tues, 27 Aug 2024 08:00:00 +0000</pubDate>
+</item>
+<item>
+<title>What to know about our August 2024 core update</title>
+<link>https://developers.google.com/search/blog/2024/08/august-2024-core-update</link>
+<description> This post announces the August 2024 core update to Google Search. This update is designed to continue our work to improve the quality of our search results by showing more content that people find genuinely useful and less content that feels like it was made just to perform well on Search. </description>
+<pubDate>Thu, 15 Aug 2024 08:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Introducing recommendations in Google Search Console</title>
+<link>https://developers.google.com/search/blog/2024/08/search-console-recommendations</link>
+<description> This post announces Search Console recommendations, a new feature that provides websites with optimization opportunities and suggests actions they can take to improve their presence on Google Search. </description>
+<pubDate>Mon, 05 Aug 2024 06:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Configure your shipping and returns directly in Search Console</title>
+<link>https://developers.google.com/search/blog/2024/07/configure-shipping-and-returns-search-console</link>
+<description> This post discusses a new and easier way to add shipping or return information directly in Search Console. </description>
+<pubDate>Thu, 11 Jul 2024 06:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Search Central Live Bangkok 2024</title>
+<link>https://developers.google.com/search/blog/2024/06/search-central-live-bangkok-2024</link>
+<description> We're coming back to Thailand with Search Central Live! As mentioned in our blog post about our APAC plans for SCL, we now have a date and a site where you can sign up for a chance to secure your spot at Search Central Live Bangkok 2024. </description>
+<pubDate>Thu, 20 Jun 2024 06:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Adding markup support for organization-level return policies</title>
+<link>https://developers.google.com/search/blog/2024/06/structured-data-return-policies</link>
+<description> We're adding support for return policies at the organization level, which means you'll be able to specify a general return policy for your business instead of having to define one for each individual product you sell. </description>
+<pubDate>Tue, 4 Jun 2024 06:00:00 +0000</pubDate>
+</item>
+<item>
+<title>We're on LinkedIn (finally)</title>
+<link>https://developers.google.com/search/blog/2024/06/linkedin-we-are-here</link>
+<description> The Google Search Central LinkedIn channel is (finally) here! </description>
+<pubDate>Tue, 4 Jun 2024 06:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Mobile-indexing-vLast-final-final.doc</title>
+<link>https://developers.google.com/search/blog/2024/06/mobile-indexing-vlast-final-final.doc</link>
+<description>
+<![CDATA[ <p> The last step of our migration to a mobile-first index will soon be complete: the small set of sites we've still been crawling with desktop Googlebot will be crawled with mobile Googlebot after July 5, 2024. Most websites do not need to do anything! </p> ]]>
+</description>
+<pubDate>Mon, 3 Jun 2024 06:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Search Central Live 2024 is coming back to the APAC region</title>
+<link>https://developers.google.com/search/blog/2024/05/search-central-live-jakarta-apac-2024</link>
+<description> Search Central Live is coming back to the Asia Pacific region, bringing you insights from Google Search, fun networking opportunity, and more! This year we're aiming to visit Indonesia, Malaysia, Taiwan, and Thailand. </description>
+<pubDate>Thu, 29 May 2024 06:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Improving Search Console ownership token management</title>
+<link>https://developers.google.com/search/blog/2024/04/search-console-ownership-token-management</link>
+<description>
+<![CDATA[ <p> This post discusses an update to Search Console's user and permissions to improve the accuracy and reflect the actual state of unused ownership tokens. </p> ]]>
+</description>
+<pubDate>Tue, 16 Apr 2024 06:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Search Central Live 2024 in Warsaw, Poland</title>
+<link>https://developers.google.com/search/blog/2024/03/search-central-live-poland-2024</link>
+<description>
+<![CDATA[ <p> We're excited to announce a Search Central Live event in Warsaw, Poland on April 24, 2024. <a href="/search/events/search-central-live">Search Central Live</a> is our global Google Search event series specifically for site owners, publishers, and SEOs. </p> ]]>
+</description>
+<pubDate>Mon, 25 March 2024 10:00:00 +0000</pubDate>
+</item>
+<item>
+<title>What web creators should know about our March 2024 core update and new spam policies</title>
+<link>https://developers.google.com/search/blog/2024/03/core-update-spam-policies</link>
+<description>
+<![CDATA[ <p> <p> Today we <a href="https://blog.google/products/search/google-search-update-march-2024" class="external-link">announced</a> the March 2024 core update. This is designed to improve the quality of Search by showing less content that feels like it was made to attract clicks, and more content that people find useful. We also shared that we have new <a href="/search/docs/essentials/spam-policies">spam policies</a> to better handle the practices that can negatively impact Google's search results. In this post, we'll go into more detail for creators about both the update and the spam policies. </p> </p> ]]>
+</description>
+<pubDate>Tue, 05 March 2024 10:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Search Central Live 2024 in Bucharest, Romania</title>
+<link>https://developers.google.com/search/blog/2024/03/search-central-live-romania-2024</link>
+<description>
+<![CDATA[ <p> We're excited to announce a Search Central Live event in Bucharest, Romania on April 4, 2024. <a href="/search/events/search-central-live">Search Central Live</a> is our global Google Search event series specifically for site owners, publishers, and SEOs. </p> ]]>
+</description>
+<pubDate>Mon, 04 March 2024 10:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Adding structured data support for Product Variants</title>
+<link>https://developers.google.com/search/blog/2024/02/product-variants</link>
+<description>
+<![CDATA[ <p> In 2022, Google <a href="/search/blog/2022/09/merchant-listings">expanded support for Product structured data</a>, enabling enhanced product experiences in Google Search. Then, in 2023 we <a href="/search/blog/2023/04/shipping-and-returns-information">added support for shipping and returns structured data</a>. Today, we are <a href="/search/docs/appearance/structured-data/product-variants">adding structured data support for Product variants</a>, allowing merchants to easily show more variations of the products they sell, and show shoppers more relevant, helpful results. Providing variant structured data will also complement and enhance <a href="https://support.google.com/merchants/answer/7439882" class="external-link">merchant center feeds</a>, including <a href="https://support.google.com/merchants/answer/7538732" class="external-link">automated feeds</a>. </p> ]]>
+</description>
+<pubDate>Tue, 20 February 2024 10:00:00 +0000</pubDate>
+</item>
+<item>
+<title>New Search experiences in EEA: Rich results, aggregator units, and refinement chips</title>
+<link>https://developers.google.com/search/blog/2024/02/search-experiences-in-eea</link>
+<description>
+<![CDATA[ <p> Following our latest <a href="https://blog.google/around-the-globe/google-europe/an-update-on-our-preparations-for-the-dma/" class="external-link">update on our preparations for the DMA</a> (Digital Markets Act), we're sharing more details about what publishers can expect to see in regards to new search results in <a href="https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:European_Economic_Area_(EEA)" class="external-link">European Economic Area</a> (EEA) countries, and how they can express interest in these experiences. </p> ]]>
+</description>
+<pubDate>Thur, 15 February 2024 10:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The SEO Starter Guide got a makeover</title>
+<link>https://developers.google.com/search/blog/2024/02/ssg-gets-a-makeover</link>
+<description> Today we're publishing a refreshed, more pocket-sized version of the SEO Starter Guide with a better focus on a starter audience and the topics we think a person who's just dipping their toes in SEO should focus on and why. </description>
+<pubDate>Fri, 2 February 2024 10:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Announcing Search Central Live Argentina</title>
+<link>https://developers.google.com/search/blog/2024/02/search-central-live-argentina</link>
+<description> We're excited to announce that Search Central Live is coming to Buenos Aires on March 5, 2024. Following successful events throughout the world last year, we're continuing our mission to help website owners to enhance their site's performance in Google Search. </description>
+<pubDate>Thu, 1 February 2024 06:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Search Central Live is returning to Brazil</title>
+<link>https://developers.google.com/search/blog/2024/02/search-central-live-sao-paulo-2024</link>
+<description> We're excited to announce that Search Central Live is returning to São Paulo on February 29, 2024. Following our successful events last year, we're continuing our mission to help Brazilian businesses enhance their site's performance in Google Search. </description>
+<pubDate>Thu, 1 February 2024 06:00:00 +0000</pubDate>
+</item>
+</channel>
+</rss>
